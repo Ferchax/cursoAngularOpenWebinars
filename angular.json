@@ -120,5 +120,8 @@
       }
     }
   },
-  "defaultProject": "cursoAngularOpenWebinars"
+  "defaultProject": "cursoAngularOpenWebinars",
+  "cli": {
+    "analytics": "99fe3e4f-d692-4821-a0c2-d07f1001e17f"
+  }
 }
